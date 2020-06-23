@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="FoodFy" src="/src/assets/chef.png" width="400px" />
+    <img alt="FoodFy" src="/src/assets/chef.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
 
-<p align="center">
+<!-- <p align="center">
 
   <a href="#">
     <img alt="Pedro Impulcetto" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
@@ -18,19 +18,20 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="#file_cabinet-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
+</p> -->
 
 ## :file_cabinet: Materiais
 
-- [Elementos principais do HTML](materiais/html.pdf)
-- [Propriedades importantes no CSS](materiais/css.pdf)
+- [React JS](https://pt-br.reactjs.org/)
+- [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [Styled Components to CSS](https://styled-components.com/)
 
 ## :memo: Licença
 
